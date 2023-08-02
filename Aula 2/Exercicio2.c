@@ -1,4 +1,4 @@
-//Problema de Ordenação Direta//
+//Programa de Bubble Sort//
 #include <stdio.h>
 #include <locale.h>
 #include <stdlib.h>
